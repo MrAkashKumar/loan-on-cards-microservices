@@ -1,12 +1,12 @@
 ## Loan-on-cards-application
 
-## Pre-requisite for the course
+## Pre-requisite
     1. Good understanding on Java and Spring concepts
     2. Basic understanding on SpringBoot & REST services is a bonus but not mandatory
     3. Interest to learn and explore about Microservices
 
 
-## Maven Commands used in the course
+## Maven Commands used in projects
 
        Maven Command	                                            Description
     "mvn clean install -Dmaven.test.skip=true"	    To generate a jar inside target folder
